@@ -1,33 +1,70 @@
-# 📊 Power BI Dashboard
+📊 Project Overview
 
-This repository contains an interactive Power BI dashboard project that provides insightful visualizations and data analysis for business intelligence purposes.
+The Power BI dashboards help transform raw data into meaningful visual stories.
+They include various charts, cards, and filters to support data-driven decision-making.
 
-## 🔍 Project Overview
+Dashboards Included:
 
-This Power BI dashboard showcases key metrics and trends using dynamic visuals. The project demonstrates data transformation, visualization, and analytical storytelling using Power BI.
+Hyper Sales Dashboard – Tracks revenue, profit, and regional sales performance
 
-## 📁 Repository Contents
+Cars Dashboard – Shows car model performance, sales by brand, and profit margins
 
-- `dashboard.pbix` – Main Power BI dashboard file
-- `dataset.xlsx` – Source data used for the dashboard
-- `images/` – Screenshots or exported visuals (optional)
+Department Dashboard – Analyzes employee performance and department contribution
 
-## 🧰 Tools & Technologies
+🧰 Tools & Technologies
 
-- Power BI Desktop
-- Excel (for data source)
-- DAX (Data Analysis Expressions)
-- Power Query
+Microsoft Power BI Desktop
 
-## 💡 Key Features
+Excel / CSV Data Sources
 
-- KPI cards showing important performance metrics
-- Interactive filters and slicers for dynamic analysis
-- Charts like bar, line, pie, and maps (if applicable)
-- Clean and business-friendly layout
+Power Query for data cleaning and transformation
 
-## ▶️ How to Use
+DAX (Data Analysis Expressions) for creating calculated measures
 
-1. Clone or download this repository:
-   ```bash
-   git clone https://github.com/mohini-pasi/PowerBI-Dashboard.git
+⚙️ How to Use
+
+Clone the repository
+
+git clone https://github.com/mohini-pasi/PowerBI-Dashboard.git
+
+
+Open .pbix file(s) in Power BI Desktop
+
+Refresh dataset paths if required
+
+Explore visuals, filters, and KPIs interactively
+
+Optionally, publish to Power BI Service for online access
+
+📁 Folder Structure
+PowerBI-Dashboard/
+│
+├── Dashboards/           # Power BI (.pbix) files
+├── Data/                 # Excel / CSV data sources
+├── Images/               # Dashboard screenshots
+│   ├── hypersales.png
+│   ├── cars.png
+│   └── departments.png
+└── README.md
+
+📸 Dashboard Outputs
+🔹 Hyper Sales Dashboard
+<img src="Images/hypersales.png" alt="Hyper Sales Dashboard" width="700"/>
+🔹 Cars Dashboard
+<img src="Images/cars.png" alt="Cars Dashboard" width="700"/>
+🔹 Department Dashboard
+<img src="Images/departments.png" alt="Department Dashboard" width="700"/>
+📈 Key Insights
+
+Visualizes Total Sales, Revenue Growth, and Performance Trends
+
+Includes interactive slicers for region, category, and time period
+
+Highlights KPIs like Profit %, Revenue per Product, and YoY Growth
+
+Built with professional color schemes and clean layout
+
+📜 License
+
+This project is open-source under the MIT License.
+Feel free to fork and use for your own analysis or learning purpose.
