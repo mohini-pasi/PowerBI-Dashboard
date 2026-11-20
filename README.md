@@ -62,7 +62,7 @@ Includes interactive slicers for region, category, and time period
 
 Highlights KPIs like Profit %, Revenue per Product, and YoY Growth
 
-Built with professional color schemes and clean layout
+Built with professional color schemes and clean layout.
 
 📜 License
 
