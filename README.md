@@ -66,5 +66,5 @@ Built with professional color schemes and clean layout.
 
 📜 License
 
-This project is open-source under the MIT License.
+This project is open-source under the MIT License
 Feel free to fork and use for your own analysis or learning purpose.
